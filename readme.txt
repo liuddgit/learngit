@@ -11,3 +11,6 @@ Git is free software distributed under the GPL.
 
 Git has a mutable index called stage.
 Git tracks changes of files.
+
+--推送远程版本
+Local git has a origin git.
