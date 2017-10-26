@@ -18,4 +18,4 @@ Local git has a origin git.
 --Git分支
 Creating a new branch is quick.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
