@@ -17,3 +17,6 @@ Local git has a origin git.
 
 --Git分支
 Creating a new branch is quick.
+
+--冲突测试
+Creating a new branch is quick AND simple.
