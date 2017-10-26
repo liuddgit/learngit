@@ -14,3 +14,6 @@ Git tracks changes of files.
 
 --推送远程版本
 Local git has a origin git.
+
+--Git分支
+Creating a new branch is quick.
